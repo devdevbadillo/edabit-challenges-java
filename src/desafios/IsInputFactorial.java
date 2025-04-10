@@ -32,7 +32,7 @@ public class IsInputFactorial {
 	public Boolean isFactorial(Integer input) {
 		Integer factorial = calculateFactorial(input, 1, 1);
 	
-		return factorial.equals(factorial);
+		return factorial.equals(input);
 	}
 	
 	final public static void main(final String[] args) {
