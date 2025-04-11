@@ -21,6 +21,8 @@ package desafios;
   - link: https://edabit.com/challenge/DcatHxtrMfLxSWnDn
   
  */
+
+
 public class IsInputFactorial {
 
 	public Integer calculateFactorial(Integer input, Integer result, Integer index) {
